@@ -42,7 +42,7 @@ Este projeto é ideal para praticar os conceitos fundamentais de desenvolvimento
 ## ▶️ Como rodar o projeto
 
 1. Clone o repositório:
-
+   
 ```bash
 git clone https://github.com/ItaloCQS/API-de-Filmes-com-FastAPI.git
 ```
