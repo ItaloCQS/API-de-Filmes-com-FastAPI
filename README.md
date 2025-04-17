@@ -1,8 +1,7 @@
 #  🎬 API de Filmes com FastAPI
 ## API RESTful desenvolvida com **FastAPI** para cadastrar, listar, atualizar e excluir informações sobre filmes.
 
-Este projeto é ideal para praticar os conceitos fundamentais de desenvolvimento de APIs modernas com Python e FastAPI, usando estrutura simples e extensível.
-
+Esse projeto foi desenvolvido para praticar os fundamentos do desenvolvimento de APIs com FastAPI
 ---
 
 ## 🚀 Funcionalidades
